@@ -1,4 +1,4 @@
-# dh-hackathon-2019-2020-june-nicafaynberg
+# Что-то политическое
 dh-hackathon-2019-2020-june-nicafaynberg created by GitHub Classroom
 
 Конституции на английском от Вовы Селиверстова
